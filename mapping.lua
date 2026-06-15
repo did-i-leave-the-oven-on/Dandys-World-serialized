@@ -1,5 +1,3 @@
--- missing new skins from mrec to cur ill add them later
-
 return {
 	toonsandtwisteds = {
 		astro = "Astro",
@@ -53,6 +51,7 @@ return {
 			["scarlet night"] = "Halloween_Astro",
 			["north star"] = "NorthStar",
 			["vintage"] = "VintageAstro",
+			["soothing pollen"] = "SoothingPollen",
 		},
 
 		bassie = {
@@ -70,6 +69,7 @@ return {
 			["sanguine silence"] = "SanguineSilence",
 			["showtime"] = "ShowtimeBlott",
 			["vintage"] = "VintageBlott",
+			["fancy frosting"] = "FancyFrosting",
 		},
 
 		bobette = {
@@ -121,6 +121,7 @@ return {
 			["strawberry paws"] = "StrawberryPaws",
 			["wildberry delight"] = "WildberryDelight",
 			["golden bunny"] = "GoldenBunny",
+			["share bear"] = "CareBear_Cosmo",
 		},
 
 		connie = {
@@ -130,6 +131,7 @@ return {
 			["ghastly glow"] = "GhastlyGlow",
 			["lilac haunting"] = "LilacHaunting",
 			["vintage"] = "VintageConnie",
+			["dawn clouds"] = "DawnClouds",
 		},
 
 		cosmo = {
@@ -173,6 +175,9 @@ return {
 			["tacky sweater"] = "TackySweater",
 			["vintage"] = "VintageFinn",
 			["flowery punch"] = "FloweryPunch",
+			["reef explorer"] = "ReefExplorer",
+			["golden fishbowl"] = "GoldenFishbowl",
+			["swimmy finn"] = "SwimmyFinn",
 		},
 
 		flutter = {
@@ -195,6 +200,7 @@ return {
 			["rainy day"] = "RainyDay",
 			["snowball fight"] = "SnowballFight",
 			["vintage"] = "VintageGigi",
+			["wish bear"] = "CareBear_Gigi",
 		},
 
 		ginger = {
@@ -212,6 +218,7 @@ return {
 			["sweater"] = "Sweater",
 			["vintage"] = "VintageGlisten",
 			["wrapped chic"] = "WrappedChic",
+			["perfect petals"] = "PerfectPetals",
 		},
 
 		goob = {
@@ -219,6 +226,7 @@ return {
 			["special spaghetti"] = "SpecialSpaghetti",
 			["vintage"] = "VintageGoob",
 			["neapolitan"] = "Neapolitan",
+			["garden blossoms"] = "GardenBlossoms",
 		},
 
 		gourdy = {
@@ -237,6 +245,7 @@ return {
 			["swirling mix up"] = "SwirlingMixUp",
 			["vintage"] = "VintageLooey",
 			["funny bunny"] = "FunnyBunny",
+			["pastel patterns"] = "PastelPatterns",
 		},
 
 		pebble = {
@@ -257,6 +266,7 @@ return {
 			["double bubble"] = "DoubleBubble",
 			["picnic outing"] = "PicnicOuting",
 			["vintage"] = "VintagePoppy",
+			["floral suds"] = "FloralSuds",
 		},
 
 		["razzle & dazzle"] = {
@@ -272,7 +282,7 @@ return {
 
 		ribecca = {
 			["haunted topic"] = "HauntedTopic",
-			["skelekitty"] = "SkeleKitty",
+			["skelekitty/reworked"] = "SkeleKitty",
 			["vintage"] = "VintageRibecca",
 		},
 
@@ -283,6 +293,7 @@ return {
 			["list maker"] = "ListMaker",
 			["vintage"] = "VintageRodger",
 			["research mobile"] = "ResearchMobile",
+			["violet debonair"] = "VioletDebonair",
 		},
 
 		rudie = {
@@ -294,10 +305,11 @@ return {
 		},
 
 		scraps = {
-			["cutesy calico"] = "CutesyCalico",
+			["cutesy calico/reworked"] = "CutesyCalico",
 			["pastel paper"] = "PastelPaper",
 			["vintage"] = "VintageScraps",
 			["rainbow sherbert"] = "RainbowSherbet",
+			["garden boquet"] = "GardenBouquet",
 		},
 
 		shelly = {
@@ -308,6 +320,7 @@ return {
 			["dino snore"] = "ShellyDino",
 			["vintage"] = "VintageShelly",
 			["violet caster"] = "VioletCaster",
+			["painted eggshells"] = "PaintedEggshells",
 		},
 
 		shrimpo = {
@@ -334,6 +347,7 @@ return {
 			["sugary shortcake"] = "SugaryShortcake",
 			["vintage"] = "VintageSprout",
 			["tasty carrot"] = "TastyCarrot",
+			["tenderheart bear"] = "CareBear_Sprout",
 		},
 
 		squirm = {
@@ -382,6 +396,7 @@ return {
 			["infected candy"] = "InfectedCandy",
 			["showtime"] = "ShowtimeYatta",
 			["vintage"] = "VintageYatta",
+			["crinkled confetti"] = "CrinkledConfetti",
 		},
 	}
 }
